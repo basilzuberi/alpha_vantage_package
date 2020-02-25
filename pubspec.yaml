@@ -1,0 +1,21 @@
+name: alpha_vantage_package
+description: alpha vantage package api updated by Basil Zuberi, initial creation by Jose Melendez Castro <melendezcastro@gmail.com> <https://github.com/jcmelend/flutter_alpha_vantage_api>
+version: 1.0.0
+author: Basil Zuberi<basilzuberi@gmail.com>
+homepage: https://www.github.com/basilzuberi/alpha_vantage_package
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.12.0+4
+
+  test: ^1.9.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
